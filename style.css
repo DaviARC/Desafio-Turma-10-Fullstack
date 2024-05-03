@@ -1,0 +1,25 @@
+.cont-repositorios{
+   display: flex;
+   flex-direction: column;
+}
+
+.img-repostorio{
+    width: 50px;
+}
+.repositorio{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+.url-repositorio{
+    width: 300px;
+}
+.nome-repositorio{
+    width: 200px;
+}
+.titulo-coluna{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
